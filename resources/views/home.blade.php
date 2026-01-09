@@ -8,7 +8,7 @@
 <section class="hero-card mb-5">
     <div class="row align-items-center">
         <div class="col-lg-6 hero-left">
-            <h1 class="display-4 fw-bold text-gradient">Enjoy Every Bite Quality Bakes, Curated for You 🍪</h1>
+            <h1 class="display-4 fw-bold text-gradient">Enjoy Every Bite Quality Bakes, Curated for You</h1>
             <p class="lead text-muted mt-3">
                 Bakery offering fresh breads, donuts, cookies, <br>and premium snack box for any occasion.
             </p>
