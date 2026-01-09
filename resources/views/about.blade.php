@@ -112,8 +112,8 @@
                 <img src="https://res.cloudinary.com/dppmxyqt4/image/upload/v1767448750/WhatsApp_Image_2026-01-03_at_20.19.30_xjrpdz.jpg"
                     alt="Muhamad Kaisar Hudayef"
                     class="team-image mb-3">
-                <h5 class="fw-bold mb-1">Muhamad Kaisar Hudayef</h5>
-                <p class="text-muted small">Database Scientist</p>
+                <h5 class="fw-bold mb-1">Kaisar Hudayef</h5>
+                <p class="text-muted small">Database Specialist</p>
             </div>
         </div>
     </div>
